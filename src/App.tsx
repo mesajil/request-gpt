@@ -1,10 +1,11 @@
 import './App.css'
 import Footer from './popup/Footer/Footer'
+import InputBox from '@/popup/InputBox/InputBox'
 
 function App() {
   return (
     <>
-      <h1>Web Request</h1>
+      <InputBox></InputBox>
       <Footer />
     </>
   )
