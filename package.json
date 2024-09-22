@@ -1,8 +1,11 @@
 {
-  "name": "web-request",
+  "name": "request-gpt",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Luis Mesajil"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Web Request Extension",
+  "name": "Request gpt",
   "version": "1.0.0",
-  "description": "Web Request Extension",
+  "description": "Request GPT Chrome Extension",
   "action": {
     "default_popup": "index.html",
     "default_icon": {
