@@ -1,4 +1,4 @@
-import './App.css'
+import '@/styles/App.css'
 import Footer from './popup/Footer/Footer'
 import { TextareaWithButton } from './popup/TextareaWithButton'
 
