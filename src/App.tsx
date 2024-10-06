@@ -1,11 +1,11 @@
-import '@/app/App.css'
+import '@/App.css'
 import Footer from '@/popup/Footer/Footer'
-import { TextareaWithButton } from '@/popup/TextareaWithButton'
+import { Inputbox } from '@/popup/Inputbox'
 
 function App() {
   return (
     <>
-      <TextareaWithButton />
+      <Inputbox />
       <Footer />
     </>
   )
